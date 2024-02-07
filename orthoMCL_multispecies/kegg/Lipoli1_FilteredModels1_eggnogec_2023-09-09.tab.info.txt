@@ -1,0 +1,17 @@
+eggnog:	Lipomyces oligophaga CBS 7107 v1.0 (Lipoli1)
+created:	2023-09-09+23-34-59
+track(s):	FilteredModels1
+total unique proteins:	3497
+see:	https://mycocosm.jgi.doe.gov/Lipoli1
+Columns:	
+proteinId:	Protein ID
+eValue:	E-value
+score:	Score
+ec:	EC
+keggKo:	KEGG KO
+keggPathway:	KEGG Pathway
+keggModule:	KEGG Module
+keggReaction:	KEGG Reaction
+keggRclass:	KEGG R class
+brite:	Brite
+keggTc:	KEGG TC

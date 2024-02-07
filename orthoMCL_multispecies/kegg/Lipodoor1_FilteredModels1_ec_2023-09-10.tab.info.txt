@@ -1,0 +1,15 @@
+ec_info:	Lipomyces doorenjongii NRRL Y-27504 v1.0 (Lipodoor1)
+created:	2023-09-10+09-24-34
+track(s):	FilteredModels1
+total unique proteins:	1627
+see:	https://mycocosm.jgi.doe.gov/Lipodoor1
+Columns:	
+proteinId:	Protein ID
+ecNum:	EC number
+definition:	definition
+catalyticActivity:	Catalytic activity
+cofactors:	Co-factors
+associatedDiseases:	Associated diseases
+pathway:	Pathway
+pathwayClass:	Pathway class
+pathwayType:	Pathway type
