@@ -27,7 +27,8 @@ If the required packages are not installed, you can use the following line from 
 * BiologData_experimental - [Biolog phenotypic plates](https://www.biolog.com/) experimental data and analysis files. 
 * Notebooks - notebooks used to build the GSM, with seven seperate steps (labeled step1-step7). Also includes notebooks for simulating GSM fluxes and for essential gene examinations. 
 * blastp - results from using ncbi protein blast of the _L. starkeyi_ NRRL Y-11557 and _R. sporidium_ IFO0880_4. 
-* data - Omic data, lipidData, biolog summary data, and Lipst1_1genome used for building and refining the GSM. 
+* data - Omic data, lipidData, biolog summary data, and Lipst1_1genome used for building and refining the GSM.
+* finalGSM - iLst996 in various formats.
 * memoteReport - memoteReport for iLst996.
 * models - GSMs used and generated in this work. 
 * orthoMCL - load and read the orthoMCL results performed on _L. starkeyi_ NRRL Y-11557, _R. sporidium_ IFO0880_4, _S. cerevisiae_, and _Y. lipolytica_.
