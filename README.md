@@ -38,6 +38,4 @@ If the required packages are not installed, you can use the following line from 
 
 This project is not yet published
 
-## License
 
-This code is currently under construction, and a license has not been chosen
