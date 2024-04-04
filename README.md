@@ -36,6 +36,6 @@ If the required packages are not installed, you can use the following line from 
 
 ## Reference
 
-This project is not yet published
+This project has been published in **Genome-scale model development and genomic sequencing of the oleaginous clade Lipomyces**. _Frontiers in Bioenergy and Biotechnology_, Volume 12. DOI: 10.3389/fbioe.2024.1356551. Link to [online article](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1356551/full).
 
 
